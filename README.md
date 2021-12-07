@@ -1,2 +1,2 @@
-# S990517
-Reinforcement Learning Fundamentals
+# drl-recsys
+Deep Reinforcement Learning for Recommender Systems
